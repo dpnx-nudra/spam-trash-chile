@@ -6,3 +6,6 @@ Si usted es parte de esta empresa por favor infórmese y gánese la vida de mane
 ¿Cuál es la Ley encargada de sancionar el uso de Spam?
 
 En Chile la Ley Nº 19.496 sobre Protección a los derechos del consumidor es la que sanciona esta práctica comercial, ya que se considera que vulnera el derecho a la libre elección del consumidor, en especial, su derecho a la privacidad. Por lo que los usuarios tienen todo el derecho a exigir que se les remueva de las líneas de destinatarios.
+
+
+# Este repo enumera los servidores, sus IP y los dominios usados para spammear.
