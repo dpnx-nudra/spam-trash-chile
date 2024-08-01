@@ -1,1 +1,5 @@
-smtpe.smtpsystem.com mail.smtpsystem.com 173.212.240.104
+173.212.240.104 mail.smtpsystem.com 
+45.11.25.109 	srv1.perseverantes.cl
+45.11.25.235 	srv1.oportunidadverdadera.cl
+45.11.25.248 	srv1.empleados.cl
+45.11.25.28 	srv1.autoresponsable.cl
