@@ -1,7 +1,5 @@
 # Spammers Chilenos
-A nadie le gusta recibir basura en su correo. Esta 'empresa' tiene 0 ética respecto al correo basura.
-Si usted es parte de esta empresa por favor infórmese y gánese la vida de manera honesta.
-
+A nadie le gusta recibir basura en su correo. Estas 'empresas' con 0 ética respecto al correo basura, unos chantas.
 
 ¿Cuál es la Ley encargada de sancionar el uso de Spam?
 
